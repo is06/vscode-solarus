@@ -1,0 +1,8 @@
+{
+  "name": "solaruslib",
+  "words": ["sol%.%w+"],
+  "settings": {
+    "Lua.runtime.version": "LuaJIT",
+    "Lua.diagnostics.globals": ["sol"]
+  }
+}
